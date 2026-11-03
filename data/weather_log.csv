@@ -1,0 +1,4 @@
+timestamp,city,temperature,description
+2026-11-03T11:17:08.223Z,London,11.33,broken clouds
+2026-11-03T12:04:13.978Z,London,11.71,light rain
+2026-11-03T12:05:48.183Z,London,11.79,heavy intensity rain
