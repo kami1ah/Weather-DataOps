@@ -3,8 +3,8 @@
 This is a CI/CD application that retrieves weather data for London using an open-source weather API. 
 The UI allows users to view current weather conditions and explore weather information over time with the 
 weather conditions. Matplotlib is used to create data visualisations and JavaScript to support the application's functionality and interactivity.
-Then Git Actions is used to automate the software workflows within the repository so that the csv file is automatically updated and it is reflected in the UI of the application.
-It is essential in CI/CD (continuous integration and continuous application) in applications/software.
+Git Actions is used to automate the software workflows within the repository so that the CSV file is automatically updated with the latest weather data and it is reflected in the UI of the application.
+This demonstrates the use of CI/CD (continuous integration and continuous deployment) in applications/software as it helps to automate processes and improve the efficiency.
 
 # Technologies Used
 
